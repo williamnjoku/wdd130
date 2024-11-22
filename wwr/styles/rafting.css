@@ -5,8 +5,8 @@
   --accent1-color: #2CBDF2;  
   --accent2-color: #071679;   
   --text-color: #ffffff;      
-  --heading-font: 'Montserrat', sans-serif; 
-  --body-font: 'Open Sans', sans-serif;     
+  --heading-font: 'Montserrat', serif; 
+  --body-font: 'Open Sans', serif;     
 }
 
 * {
